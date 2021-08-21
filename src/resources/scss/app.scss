@@ -1,0 +1,29 @@
+@import 'variables';
+
+.card-courses-item {
+    margin-top: 16px;
+}
+
+.recycle-bin-icon,
+.user-avatar {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    margin-right: 6px;
+}
+
+.recycle-bin{
+    text-decoration: none;
+}
+
+.header-stored{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+}
+
+.form-select-small{
+    width: 180px;
+    margin: 0 16px;
+}
